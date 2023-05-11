@@ -3,4 +3,4 @@
 - [Kaggle notebook](https://www.kaggle.com/code/yaskevichmisha/vk-intern)
 - [data-for-collate-fn](https://www.kaggle.com/datasets/yaskevichmisha/data-for-collate-fn)
 - [movielens_208](https://www.kaggle.com/datasets/mchavoshi/grouplens-2018)
-- [datadet-path](https://www.kaggle.com/datasets/yaskevichmisha/dataset-path)
+- [movie_lens_processed](https://www.kaggle.com/datasets/yaskevichmisha/dataset-path)
